@@ -2,8 +2,8 @@
 a basic stable keylogger written for eductional purpose works on windows platforms
 # options:
 - remote access keylogger
-- works in background
-additional functions will be added soon like registery persistence and inject in system proccesses
+- works in background secretly
+ -> additional functions will be added soon like registery persistence and inject in system proccesses
 # compile
 `gcc -o knightlogger.exe knightlogger.cpp -lwsock32`
 
