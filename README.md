@@ -1,7 +1,7 @@
 # knightlogger
 a basic stable keylogger written for eductional purpose works on windows platforms 
 notice this progeam is making high cpu usage
-# options:
+# options
 - remote access keylogger
 - works in background secretly
  -> additional functions will be added soon like registery persistence and inject in system proccesses
