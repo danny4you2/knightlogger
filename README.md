@@ -5,7 +5,7 @@ a basic stable keylogger written for eductional purpose works on windows platfor
 - works in background secretly
  -> additional functions will be added soon like registery persistence and inject in system proccesses
 # compile
-`gcc -o knightlogger.exe knightlogger.cpp -lwsock32`
+`g++ -o knightlogger.exe knightlogger.cpp -lwsock32`
 
 **easy to use**
 `knightlogger.exe ipaddr portnumber`
