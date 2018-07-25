@@ -1,6 +1,6 @@
 # knightlogger
-a basic stable keylogger written for eductional purpose works on windows platforms
-notice this app is making high cpu usage
+a basic stable keylogger written for eductional purpose works on windows platforms 
+notice this progeam is making high cpu usage
 # options:
 - remote access keylogger
 - works in background secretly
